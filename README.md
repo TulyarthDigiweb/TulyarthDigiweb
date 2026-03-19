@@ -1,16 +1,48 @@
-## Hi there 👋
+# 🚀 TulyarthDigiweb
 
-<!--
-**TulyarthDigiweb/TulyarthDigiweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Company | Web & App Development | Cloud Solutions
 
-Here are some ideas to get you started:
+We build scalable web and mobile applications with modern technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Technologies & Skills
+
+### 🌐 Frontend
+
+HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX, React.js
+
+### 📱 Mobile Apps
+
+React Native, Android (Play Store), iOS (Apple Store)
+
+### ⚙️ Backend
+
+PHP, Laravel, Node.js
+
+### 🔗 API
+
+REST API, API Integration, JWT Authentication
+
+### ☁️ Cloud & Hosting
+
+VPS Hosting, Cloud Hosting, Server Management
+
+### 🔥 Firebase
+
+Authentication, Firestore, Push Notifications
+
+---
+
+## 🏢 About Us
+
+TulyarthDigiweb is an IT company focused on delivering high-quality digital solutions including websites, mobile apps, and cloud systems.
+
+---
+
+## 📫 Contact
+
+🌐 Website: https://tulyarthdigiweb.com
+📧 Email: [your-email@example.com](mailto:your-email@example.com)
+
+⭐ Building the future with technology
